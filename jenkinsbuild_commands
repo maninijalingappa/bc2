@@ -7,4 +7,4 @@ docker run -dit --name boocic_container -p 250:80 boocicdocker;
 docker login -u vnom1985 -p abc@12345;
 docker tag boocicdocker vnom1985/boocicdocker;
 docker push vnom1985/boocicdocker
-work 
+work hard
