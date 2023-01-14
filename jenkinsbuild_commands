@@ -1,4 +1,4 @@
-pwd;
+pwd
 docker stop boocic_container || true;
 docker rm -f boocic_container || true;
 docker image rm -f boocicdocker || true;
